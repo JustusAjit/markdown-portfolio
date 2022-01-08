@@ -1,1 +1,3 @@
-_includes/04-lists.md
+*mango
+*apple
+*orange
