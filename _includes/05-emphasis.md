@@ -1,4 +1,4 @@
-<b>Github</b>
+<b><strong>Github</strong></b>
 
 <i>GITHUB</i>
 
