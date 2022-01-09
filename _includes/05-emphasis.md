@@ -1,7 +1,15 @@
-<b><strong>Github</strong></b>
+*This text will be italic*
 
-<i>GITHUB</i>
+_This will also be italic_
 
-<p>We <em>cannot</em> live like this.</p>
+**This text will be bold**
+
+__This will also be bold__
+
+_You **can** combine them_
+
+
+
+
 
 
